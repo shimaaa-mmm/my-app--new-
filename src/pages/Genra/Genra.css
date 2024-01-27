@@ -1,0 +1,13 @@
+.titrg{
+    font-size: 16px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: revert;
+    padding: 11px;
+    color: #008b23;
+    border: solid;
+    border-radius: 38px;
+    padding: 24px;
+    margin: 16px;
+  
+}

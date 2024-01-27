@@ -1,0 +1,26 @@
+
+.header {
+  background: rgba(255,255,255,0.3);
+  color: aliceblue;
+}
+.login{
+  border: 1px solid;
+  border: 1px solid;
+  line-height: 38px;
+  padding-left: 15px;
+  border-radius: 16px;
+  padding-right: 20px;
+  font-size: 12px;
+
+}
+.buy{
+  font-size: 15px;
+  padding: 10px;
+}
+h2{
+  color: #fff;
+  font-size: x-small;
+}
+h2:hover{
+  color: rgb(235, 51, 38);
+}
